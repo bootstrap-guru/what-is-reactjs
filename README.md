@@ -1,0 +1,2 @@
+# what-is-reactjs
+React JS is a flexible, powerful and efficient front end JavaScript library for building user interfaces, created by Jordan Walke, a Facebook engineer. React is not another MVC frame work, It is simple a library for rendering your views, It is very popular front-end JavaScript library these days. It deals with View in the MVC, React is much faster. ReactJS can be used in the development of single-page applications and mobile applications. It can be used with a combination of other JavaScript libraries or frameworks, such as Angular JS in MVC
